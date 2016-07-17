@@ -14,12 +14,18 @@ B. Emotional design levels of your object:
 
 * Visceral:
 
+The shape and overall style of this pencil makes it worthy enough to buy because it looks like any other mechanical pencil out there that we have all bought.  
+
 * Behavioral:
+
+The overall simplicity of this pencil makes it nice.  Reloading the led is just pushing the end, the grip makes it a nice hold rather than straight on the plastic. 
 
 * Reflective:
 
+With pencils not really changing designs too often, a lot of people can look at their pencils and reminisce about the good ole days when they were kids, first using mechanical pencils.  The standard design really allows users to keep history with them. 
+
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1.The simplicity of the design
+2.The recognition of the design
+3.The intention of being standard.
