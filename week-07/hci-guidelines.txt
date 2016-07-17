@@ -29,8 +29,20 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline One (URL):
 * How you implemented it in your sketch:
 
+https://developer.apple.com/ios/human-interface-guidelines/ui-views/web-views/
+
+With this guidline, I went for a login friendly to apple devices.  The login is center focus with the redesign, however still being able to access some important parts of the login page at the bottom.
+
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
 
+https://developer.apple.com/ios/human-interface-guidelines/ui-views/alerts/
+
+With this guidline, I implemented an alert that would quickly pop up notifying users of an error with easy canceling option.
+
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
+
+https://developer.apple.com/ios/human-interface-guidelines/interaction/data-entry/
+
+For my third edit, I designed in a next button for navigation through the value fields of the login. Rather than having to click the actual field. 
