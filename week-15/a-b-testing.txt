@@ -13,3 +13,11 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+
+
+The main modification I made was the amount of arrival times shown. 
+It may be less accurate to go further out in time, but really helpful to commuters.
+The code needed would be some type of relay that grabs the GPS signal more 
+frequently. Or, simply a larger limit on the buses or trains per location. This will 
+ensure that commuters can better plan ahead for their journey.  
