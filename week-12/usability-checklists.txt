@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.  http://drpete.co/topic/25-point-website-usability-checklist
+2.  https://stayintech.com/info/UX
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Adequate Text-to-Background Contrast
+2.Images Have Appropriate ALT Tags
+3.Home-page Is Digestible In 5 Seconds
+4.Navigation Labels Are Clear & Concise
+5.Website is credible.
+6.Uncluttered product and service information.
+7.Major changes to the site are announced on the homepage
+8.Pages don't refresh automatically
+9.Accessible navigation
+10.Security
